@@ -12,10 +12,6 @@ Welcome to my GitHub profile! I specialize in creating delightful and interactiv
 ![CSS](https://img.shields.io/badge/CSS-Expert-blue?style=for-the-badge&logo=css3)
 ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green?style=for-the-badge&logo=node.js)
 
-## 🌱 Currently Learning
-
-I'm currently exploring new features in React.js and enhancing my skills in server-side rendering with Next.js.
-
 ## 🚀 Projects
 
 - [Portfolio Website](https://eful.netlify.app): My personal portfolio showcasing my skills and projects.
