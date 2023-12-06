@@ -26,10 +26,3 @@ Welcome to my GitHub profile! I specialize in creating delightful and interactiv
 [![Saeful Barkah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saefulbarkah&show_icons=true&count_private=true&theme=radical)](https://github.com/saefulbarkah)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saefulbarkah&layout=compact&theme=radical)](https://github.com/saefulbarkah)
-
-## 📫 Let's Connect
-
-- LinkedIn: [Saeful Barkah](https://www.linkedin.com/in/saeful-barkah/)
-- Twitter: [@saefulbarkah](https://twitter.com/saefulbarkah)
-
-Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
