@@ -1,7 +1,3 @@
-# Hi there! 👋 I'm Saeful Barkah, a Front-End Web Developer
-
-Welcome to my GitHub profile! I specialize in creating delightful and interactive web experiences using modern technologies.
-
 ## 🔧 Technologies & Tools
 
 ![React](https://img.shields.io/badge/React-Advanced-blue?style=for-the-badge&logo=react)
